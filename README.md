@@ -63,16 +63,16 @@ When reflecting on my enhancement of the Hash table data structure artifact from
 
 **Briefly describe the artifact. What is it? When was it created?**
 
-The artifact that I’ve chosen for this milestone is some Python code from my CS340 class.
-In that class, we used CRUD to create an animal shelter intake application that would prompt the app used for the animal’s various attributes.
+The artifact that I've chosen to enhance is a SQL database .csv file from my DAD 220 course two years ago. The portion of the database that I will be enhancing is the "employees" table. This table contains the names, salaries, security access level, and employment status of all the employees in the company. 
 
 **Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?**
 
-I would like to include this artifact in my portfolio because it aligns with the overall expectations of the current milestones this week. In addition, I want to enhance this artifact by rewriting the code and making it easy the read because looking back at the original code, it was all over the place. Python and MongoDB were used for this artifact, and refamiliarizing myself with the database concepts should be interesting. Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates on your outcome-coverage plans?
-Yes, I feel as if I met the course objectives that I planned, and no, I do not have any updates on my outcome coverage plans.
+I've chosen to include this artifact in my ePortfolio because of think that it aligned greatly with the overall objective to meet the requirements for the final project. I selected the employee Human Resources portion of the SQL database because I thought it would be a challenge as well as a great way to learn new development concepts that I have never explored before. The specific component of the HR database artifact showcases my knowledge of SQL and database integration. I improved the artifact by creating a user simple user interface that takes the prompted values and stores them In the MongoDB cloud database which I integrated using HTML, JavaScript, Express, and Node. JS.
+
+**Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?**
+
+Yes, specifically CS-499-03, and CS-499-04. The reason being is because although the application is simply designed, I had to consider taking a very logic approach as to how achieve my goal of creating a front end to take the Human Resources information and link it to a MongoDB data that can queried. I also to a semi-testing route by setting up nodemon a tool within node. JS to run the database connection processes along error checking hard code into my index.js file.
 
 **Reflect on the process of enhancing and modifying the artifact. What did you learn?**
 
-The challenges I faced were how much time it took to rewrite my AnimalShelter.py code and have successfully compiled it. I also realize that since MongoDB is a service, it is not available for
-free, making obtaining access difficult as I do not have access to the Linux virtual machine used with the class.
-
+When it came to enhancing my artifact from DAD 220 course, I didn’t really understand the undertaking it would be to get everything about my enhancement working the way I wanted. I started this enhancement with a .csv file for the HR and Information Systems department for the lab. It only contained the names and which department the employee worked but I feel that was more than enough information to lay the groundwork, which entailed configuring my database via the shell, and the writing the database connection code in JavaScript which I am not well-versed in. Next, I wrote the code that would essentially talk to the HTML code outlining what input information to prompt the user for. I learned throughout this enhancement that falling back on the foundation concepts of design a crucial when starting any application project. The challenges I faced were mainly some logic errors dealing with the JavaScript code as well as database connection issues between the code and the application itself not submitting the input information my database.
