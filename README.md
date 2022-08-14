@@ -58,7 +58,7 @@ When reflecting on my enhancement of the Hash table data structure artifact from
 
 
 
-### [Enhancement Three: Databases](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/AnimalShelterEnhanced.py)
+### [Enhancement Three: Databases](https://github.com/KennethPosley/CS499CompSciCapstoneKP/tree/main/CS-499%20Enhancement%20Three)
 
 
 **Briefly describe the artifact. What is it? When was it created?**
