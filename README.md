@@ -4,9 +4,9 @@
 
 - [Self reflection](#self-reflection)
 - [Code Review](#code-review)
-- [3D Triangle Enhancement](#3D-Triangle-Enhancement)
-- [Cruise Passenger Enhancement](#Cruise-Passenger-Enhancement)
-- [Animal Shelter Enhancment](#Animal-Shelter-Enhancment)
+- [Enhancement One: Software Design and Engineering](#Enhancement-One:-Software-Design-and-Engineering)
+- [Enhancement Two: Algorithms and Data Structures](#Enhancement-Two:-Algorithms-and-Data-Structures)
+- [Enhancement Three: Databases](#Enhancement-Three:-Databases)
 
 ### Self reflection
  
