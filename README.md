@@ -1,4 +1,4 @@
-## Kenneth Posley ePortfolio
+## Computer Science CapStone Final Project
 
 ### Table of Contents
 
@@ -17,7 +17,7 @@ When I decided to get my computer science degree back in 2017, I knew it would b
 ### [Code Review](https://youtu.be/1ZQySk41Fzs)
  
  
-### [3D Triangle Enhancement](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/Source.cpp)
+### [Enhancement One: Software Design and Engineering](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/Source.cpp)
 
 
 **Briefly describe the artifact. What is it? When was it created?**
@@ -36,7 +36,7 @@ I do think I am meeting my planned enhancement objectives though I do understand
 In the process of enhancing the original artifact I had difficulties with implementing some of the library‘s one, in particular, was one of the math libraries that is needed to be able to code the vertices, as well as I, found myself taking more time on the enhancement than I originally anticipated it did prove yourself to be certainly a task but I managed to get it done. Some things I learned while doing this enhancement for the software engineering and design element of the final project were brushing up on C++ and learning how to use the OpenGL API all over again. Whilst taking the class Learning the API was definitely one of the biggest learning curves that I had to overcome and even now in writing this by I’m still pretty rusty but I think it was a great experience and I think that it’s going to be integral in improving my development skills overall that’s going to translate into my personal life as well as professional life.
 
 
-### [Cruise Passenger Enhancement](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/PassengerEnhanced.java)
+### [Enhancement Two: Algorithms and Data Structures](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/PassengerEnhanced.java)
 
 
 **Briefly describe the artifact. What is it? When was it created**
@@ -57,7 +57,7 @@ Throughout the process of enhancing effect cleaned up to go to bed as well as ho
 
 
 
-### [Animal Shelter Enhancment](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/AnimalShelterEnhanced.py)
+### [Enhancement Three: Databases](https://github.com/KennethPosley/KennethPosley.github.io/blob/main/AnimalShelterEnhanced.py)
 
 
 **Briefly describe the artifact. What is it? When was it created?**
