@@ -2,17 +2,25 @@
 
 ### Table of Contents
 
-- [Self reflection](#self-reflection)
+- [Professional Self-Assessment](#professional-self-assessment)
 - [Code Review](#code-review)
-- [Enhancement One: Software Design and Engineering](#Enhancement-One:-Software-Design-and-Engineering)
-- [Enhancement Two: Algorithms and Data Structures](#Enhancement-Two:-Algorithms-and-Data-Structures)
-- [Enhancement Three: Databases](#Enhancement-Three:-Databases)
+- [Enhancement One: Software Design and Engineering](#enhancement-one:-software-design-and-engineering)
+- [Enhancement Two: Algorithms and Data Structures](#enhancement-two:-algorithms-and-data-structures)
+- [Enhancement Three: Databases](#enhancement-three:-databases)
 
-### Self reflection
+### Professional Self-Assessment
  
- 
-When I decided to get my computer science degree back in 2017, I knew it would be an enriching journey, to say the least. The program as a whole has taught me everything that I need to be successful in this field. This capstone has been very interesting to get through Unscathed and in one piece. I feel my knowledge in python database management has grown immensely throughout my program of study. It's been a combination of the classes that catered to those particular skills and practicing and developing things on my own to hone in the product that I present, which is myself. Throughout the milestones for my computer science Capstone, I think of these particular choices in mind for a test to show me weaknesses and things that I can improve daily, whether personally or personally. Professionally. The artifacts I chose were to enhance a 3-D triangle with scenic movement using a camera and lighting implement mentation. The next artifact displays my ability to use object-oriented programming through the passenger classroom from the cruise ship application. The last and final artifact shows my ability to be able to use the database application mongo DB along with python to create an animal shelter application that intakes a variety of animals based upon the animal’s age animals birthdate the gender of the animal as well as different system features that help the in user manage the animals that come into the shelter for this application.
- 
+ When I decided to get my computer science degree in 2017, I knew it would be an enriching journey. I soon discovered that completing my coursework throughout the program and developing the ePortfolio helped showcase my strengths and shape my goals and values. Furthermore, it has prepared me to enter or become more employable in computer science. Given my current status as a student, I will share my experience with how the curriculum, the ePortfolio assignment, and extracurricular activities have aided my professional development. In my college experience, I have found that developing a solid professional identity has helped me become more capable and well-rounded. The process was exciting and extremely rewarding as I learned more about me and developed a deeper understanding of the roles I fulfill within the computer science community. Furthermore, I discovered new ways of thinking about my studies and became more aware of my potential to impact society around me positively.
+
+
+ My major in Computer Science has enabled me to explore various aspects of computer science, including programming, algorithms, cybersecurity, data analysis, and more. Through multiple courses in the program, I have learned valuable skills such as problem-solving, technical writing, graphic design, programming, and project management, which have helped me become a better programmer and contributed to my overall growth as a computer scientist and a professional. These skills were developed through classes that taught me how to analyze and solve complex programming problems using algorithms and data structures to build programs. In addition to learning about algorithms and data structures, I have completed computer architecture and operating systems courses, which gave me a strong foundation in the field.
+
+ The Software Design and Engineering artifact shows my ability to design functional and efficient software programs based on predefined requirements and specifications. The source code is created using Python programming language, which was recreated from Java and tested to ensure it works as expected. 
+
+ The Data structures and Algorithms artifact showcase my knowledge of the fundamental principles and methodologies of programming languages such as C++ and Python by demonstrating my ability to create various data structures and perform basic operations in an algorithm. The source code developed in this artifact is written in C++, the most commonly used programming language in research and industry. But for the enhancement, I rewrote the c++ code in Python for future usability. 
+
+The Database artifact was created from a .csv file and created with SQL. I then took the information from that file and created an HTML interface to display that information in a browser. JavaScript was used to interface my from-end code with the back-end MongoDB database. This gave me experience creating database-backed web applications from scratch, which will come in very handy in the future as I develop my career.
+
  
 ### [Code Review](https://youtu.be/1ZQySk41Fzs)
  
